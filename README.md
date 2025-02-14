@@ -1,8 +1,6 @@
 # Hello-World
 First Repository 
-## Heading 1
-### Heading 2
-**bold text**
+
 ## Table of contents
 
 - [PROJECT TITLE](#Project-Title)
@@ -12,6 +10,4 @@ First Repository
 - [ADDITIONAL DOCUMENTATION](#Additional-documentation)
 - [VERSIONING](#versioning)
 
-  ## Project Title
-
-  *Hello World Sample **
+ 
