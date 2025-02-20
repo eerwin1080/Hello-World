@@ -8,6 +8,10 @@
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#Additional-documentation)
-- [LINKEDIN](#https://www.linkedin.com/in/ella-erwin1)
+- [LINKEDIN](www.linkedin.com/in/ella-erwin1)
+
+  Bye :wave:
+
+  This is for an ==assignment== 
 
  
